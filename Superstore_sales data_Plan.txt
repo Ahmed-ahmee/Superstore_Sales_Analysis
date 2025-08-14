@@ -25,6 +25,12 @@ Like to know
 4. Bivariate analysis 
 
 then Build
-Time forecast model for predicting sales
-Customer segmentation (which customers most likely buy again 
-Customer Churn
+**Time forecast model for predicting sales
+**Customer segmentation (which customers most likely buy again 
+**Customer Churn
+**Build dashboard-like plots for:
+	Sales trends
+	Best/worst product categories
+	Top customers
+	Churn risk segments
+	
