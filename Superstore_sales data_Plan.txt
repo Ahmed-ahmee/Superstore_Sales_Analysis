@@ -1,0 +1,30 @@
+Superstore_Sales
+
+Shape -   9995*21
+period - 2014-17 (4 Years)
+
+Datas
+	1. Date
+	2. Cat variables
+	3. Numerical variables
+
+Dimentions: 
+	Customer
+	Location 
+	Product
+	Datetime
+Hirerachy
+	Category>sub_Category>Product_Name
+	Country>State>Region>City
+	Segment>Customer_id>Customer
+
+Like to know
+1. Total_sales, average_sales, annual_sales and their variances
+2. GP analysis - annual gp, average gp, variance
+3. UniVariate of cats and numerical figures. (for numerical, making equalwight rows and then analyse is better)
+4. Bivariate analysis 
+
+then Build
+Time forecast model for predicting sales
+Customer segmentation (which customers most likely buy again 
+Customer Churn
